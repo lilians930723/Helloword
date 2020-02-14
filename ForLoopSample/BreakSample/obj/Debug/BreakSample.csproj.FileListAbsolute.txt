@@ -1,0 +1,6 @@
+D:\Build school 課程\01_\ForLoopSample\BreakSample\bin\Debug\BreakSample.exe.config
+D:\Build school 課程\01_\ForLoopSample\BreakSample\bin\Debug\BreakSample.exe
+D:\Build school 課程\01_\ForLoopSample\BreakSample\bin\Debug\BreakSample.pdb
+D:\Build school 課程\01_\ForLoopSample\BreakSample\obj\Debug\BreakSample.csprojAssemblyReference.cache
+D:\Build school 課程\01_\ForLoopSample\BreakSample\obj\Debug\BreakSample.exe
+D:\Build school 課程\01_\ForLoopSample\BreakSample\obj\Debug\BreakSample.pdb

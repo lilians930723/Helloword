@@ -1,0 +1,6 @@
+D:\Build school 課程\01_\ForLoopSample\dowhile\bin\Debug\dowhile.exe.config
+D:\Build school 課程\01_\ForLoopSample\dowhile\bin\Debug\dowhile.exe
+D:\Build school 課程\01_\ForLoopSample\dowhile\bin\Debug\dowhile.pdb
+D:\Build school 課程\01_\ForLoopSample\dowhile\obj\Debug\dowhile.csprojAssemblyReference.cache
+D:\Build school 課程\01_\ForLoopSample\dowhile\obj\Debug\dowhile.exe
+D:\Build school 課程\01_\ForLoopSample\dowhile\obj\Debug\dowhile.pdb

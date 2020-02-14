@@ -1,0 +1,6 @@
+D:\Build school 課程\01_\Myfirstsolution\Myfirstapp\bin\Debug\Myfirstapp.exe.config
+D:\Build school 課程\01_\Myfirstsolution\Myfirstapp\bin\Debug\Myfirstapp.exe
+D:\Build school 課程\01_\Myfirstsolution\Myfirstapp\bin\Debug\Myfirstapp.pdb
+D:\Build school 課程\01_\Myfirstsolution\Myfirstapp\obj\Debug\Myfirstapp.exe
+D:\Build school 課程\01_\Myfirstsolution\Myfirstapp\obj\Debug\Myfirstapp.pdb
+D:\Build school 課程\01_\Myfirstsolution\Myfirstapp\obj\Debug\Myfirstapp.csprojAssemblyReference.cache

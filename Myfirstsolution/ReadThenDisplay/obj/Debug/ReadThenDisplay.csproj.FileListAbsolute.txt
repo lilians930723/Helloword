@@ -1,0 +1,6 @@
+D:\Build school 課程\01_\Myfirstsolution\ReadThenDisplay\bin\Debug\ReadThenDisplay.exe.config
+D:\Build school 課程\01_\Myfirstsolution\ReadThenDisplay\bin\Debug\ReadThenDisplay.exe
+D:\Build school 課程\01_\Myfirstsolution\ReadThenDisplay\bin\Debug\ReadThenDisplay.pdb
+D:\Build school 課程\01_\Myfirstsolution\ReadThenDisplay\obj\Debug\ReadThenDisplay.csprojAssemblyReference.cache
+D:\Build school 課程\01_\Myfirstsolution\ReadThenDisplay\obj\Debug\ReadThenDisplay.exe
+D:\Build school 課程\01_\Myfirstsolution\ReadThenDisplay\obj\Debug\ReadThenDisplay.pdb

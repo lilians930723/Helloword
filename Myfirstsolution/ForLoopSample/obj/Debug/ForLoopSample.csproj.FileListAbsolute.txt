@@ -1,0 +1,6 @@
+D:\Build school 課程\01_\Myfirstsolution\ForLoopSample\bin\Debug\ForLoopSample.exe.config
+D:\Build school 課程\01_\Myfirstsolution\ForLoopSample\bin\Debug\ForLoopSample.exe
+D:\Build school 課程\01_\Myfirstsolution\ForLoopSample\bin\Debug\ForLoopSample.pdb
+D:\Build school 課程\01_\Myfirstsolution\ForLoopSample\obj\Debug\ForLoopSample.exe
+D:\Build school 課程\01_\Myfirstsolution\ForLoopSample\obj\Debug\ForLoopSample.pdb
+D:\Build school 課程\01_\Myfirstsolution\ForLoopSample\obj\Debug\ForLoopSample.csprojAssemblyReference.cache

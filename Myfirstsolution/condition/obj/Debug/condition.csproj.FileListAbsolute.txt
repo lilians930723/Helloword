@@ -1,0 +1,6 @@
+D:\Build school 課程\01_\Myfirstsolution\condition\bin\Debug\condition.exe.config
+D:\Build school 課程\01_\Myfirstsolution\condition\bin\Debug\condition.exe
+D:\Build school 課程\01_\Myfirstsolution\condition\bin\Debug\condition.pdb
+D:\Build school 課程\01_\Myfirstsolution\condition\obj\Debug\condition.csprojAssemblyReference.cache
+D:\Build school 課程\01_\Myfirstsolution\condition\obj\Debug\condition.exe
+D:\Build school 課程\01_\Myfirstsolution\condition\obj\Debug\condition.pdb
